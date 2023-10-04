@@ -7,11 +7,11 @@ import sys
 import time
 
 
-#Twitter API credentials
-consumer_key = "5MOIEv04mahHH3iruYSBi6acU"
-consumer_secret = "zrj11pHlZ5RkND8oX2b34voCmNFWHV3tj2eLXtmOASn6c3WcSj"
-access_key = "2207078118-5DojdYuM0wvLmvO6YdTRrwsfe15KLnuqBLk2U0c"
-access_secret = "0boDaUkIANRYmUIOISoNohbREykTg7Ad11vkn7pz0J357"
+#Twitter API credentials 
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 def get_all_tweets(screen_name):
